@@ -1,7 +1,7 @@
 {
   "name": "grunt-tbp-css-url-rewrite",
   "description": "Rewrites URL paths in css",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/TheBookPeople/grunt-tbp-css-url-rewrite",
   "author": {
     "name": "William Griffiths",
